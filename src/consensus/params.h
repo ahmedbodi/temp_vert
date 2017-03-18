@@ -61,10 +61,7 @@ struct Params {
     bool fRbfEnabled;
     int64_t nPowTargetSpacing;
     int64_t nPowTargetTimespan;
-    int64_t nChainStartTime;
     int64_t nKGWInterval;
-    unsigned char nMinNFactor;
-    unsigned char nMaxNFactor;
     bool EnableRBF() const { return fRbfEnabled; }
     int64_t DifficultyAdjustmentInterval() const { return nPowTargetTimespan / nPowTargetSpacing; }
     uint256 nMinimumChainWork;
