@@ -178,9 +178,6 @@ public:
         consensus.nPowTargetTimespan = 3.5 * 24 * 60 * 60; // two weeks
         consensus.nPowTargetSpacing = 2.5 * 60;
         consensus.fPowAllowMinDifficultyBlocks = true;
-        consensus.nMinNFactor = 10;
-        consensus.nMaxNFactor = 30;
-        consensus.nChainStartTime = 1389306217;
         consensus.nKGWInterval = 12;
         consensus.fRbfEnabled = false;
         consensus.fPowNoRetargeting = false;
