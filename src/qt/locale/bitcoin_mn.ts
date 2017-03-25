@@ -57,7 +57,7 @@
     <name>BanTableModel</name>
     </context>
 <context>
-    <name>VertcoinGUI</name>
+    <name>$NameSentenceGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>&amp;Зурвас хавсаргах...</translation>
@@ -123,7 +123,7 @@
         <translation>Оношилгоо ба засварын консолыг онгойлго</translation>
     </message>
     <message>
-        <source>Vertcoin</source>
+        <source>$NameSentence</source>
         <translation>Биткойн</translation>
     </message>
     <message>
@@ -503,7 +503,7 @@
     <name>UnitDisplayStatusBarControl</name>
     </context>
 <context>
-    <name>vertcoin-core</name>
+    <name>$NameLowercase-core</name>
     <message>
         <source>Options:</source>
         <translation>Сонголтууд:</translation>

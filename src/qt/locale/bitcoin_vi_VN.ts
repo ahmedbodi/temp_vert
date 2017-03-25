@@ -65,7 +65,7 @@
     <name>BanTableModel</name>
     </context>
 <context>
-    <name>VertcoinGUI</name>
+    <name>$NameSentenceGUI</name>
     <message>
         <source>&amp;Overview</source>
         <translation>&amp;Tổng quan</translation>
@@ -99,8 +99,8 @@
         <translation>Mở &amp;URI...</translation>
     </message>
     <message>
-        <source>Vertcoin</source>
-        <translation>Vertcoin</translation>
+        <source>$NameSentence</source>
+        <translation>$NameSentence</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -431,14 +431,14 @@
     <name>UnitDisplayStatusBarControl</name>
     </context>
 <context>
-    <name>vertcoin-core</name>
+    <name>$NameLowercase-core</name>
     <message>
         <source>Options:</source>
         <translation>Lựa chọn:</translation>
     </message>
     <message>
-        <source>Vertcoin Core</source>
-        <translation>Vertcoin Core</translation>
+        <source>$NameSentence Core</source>
+        <translation>$NameSentence Core</translation>
     </message>
     <message>
         <source>(default: %u)</source>

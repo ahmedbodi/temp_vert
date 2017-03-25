@@ -73,7 +73,7 @@
     </message>
 </context>
 <context>
-    <name>VertcoinGUI</name>
+    <name>$NameSentenceGUI</name>
     <message>
         <source>Error</source>
         <translation>Greska</translation>
@@ -159,10 +159,10 @@
     <name>UnitDisplayStatusBarControl</name>
     </context>
 <context>
-    <name>vertcoin-core</name>
+    <name>$NameLowercase-core</name>
     <message>
-        <source>Vertcoin Core</source>
-        <translation>Vertcoin Core</translation>
+        <source>$NameSentence Core</source>
+        <translation>$NameSentence Core</translation>
     </message>
     <message>
         <source>Insufficient funds</source>

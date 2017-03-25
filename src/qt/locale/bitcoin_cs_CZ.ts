@@ -49,7 +49,7 @@
     <name>BanTableModel</name>
     </context>
 <context>
-    <name>VertcoinGUI</name>
+    <name>$NameSentenceGUI</name>
     <message>
         <source>Synchronizing with network...</source>
         <translation>Synchronizuji se sítí...</translation>
@@ -83,8 +83,8 @@
         <translation>Změnit heslo k šifrování peněženky</translation>
     </message>
     <message>
-        <source>Vertcoin</source>
-        <translation>Vertcoin</translation>
+        <source>$NameSentence</source>
+        <translation>$NameSentence</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -279,7 +279,7 @@
     <name>UnitDisplayStatusBarControl</name>
     </context>
 <context>
-    <name>vertcoin-core</name>
+    <name>$NameLowercase-core</name>
     <message>
         <source>Options:</source>
         <translation>Možnosti:</translation>

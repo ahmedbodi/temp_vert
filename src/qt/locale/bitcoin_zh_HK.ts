@@ -73,7 +73,7 @@
     </message>
 </context>
 <context>
-    <name>VertcoinGUI</name>
+    <name>$NameSentenceGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>簽署訊息... &amp;m</translation>
@@ -151,8 +151,8 @@
         <translation>正在為磁碟區塊重建索引...</translation>
     </message>
     <message>
-        <source>Send coins to a Vertcoin address</source>
-        <translation>付款至一個 Vertcoin 位址</translation>
+        <source>Send coins to a $NameSentence address</source>
+        <translation>付款至一個 $NameSentence 位址</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -175,8 +175,8 @@
         <translation>驗證訊息... &amp;V</translation>
     </message>
     <message>
-        <source>Vertcoin</source>
-        <translation>Vertcoin</translation>
+        <source>$NameSentence</source>
+        <translation>$NameSentence</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -263,6 +263,6 @@
     <name>UnitDisplayStatusBarControl</name>
     </context>
 <context>
-    <name>vertcoin-core</name>
+    <name>$NameLowercase-core</name>
     </context>
 </TS>

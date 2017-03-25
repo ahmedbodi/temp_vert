@@ -73,7 +73,7 @@
     </message>
 </context>
 <context>
-    <name>VertcoinGUI</name>
+    <name>$NameSentenceGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>&amp;Подписать сообщение...</translation>
@@ -163,8 +163,8 @@
         <translation>Идёт переиндексация блоков на диске...</translation>
     </message>
     <message>
-        <source>Send coins to a Vertcoin address</source>
-        <translation>Отправить монеты на указанный адрес Vertcoin</translation>
+        <source>Send coins to a $NameSentence address</source>
+        <translation>Отправить монеты на указанный адрес $NameSentence</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -187,8 +187,8 @@
         <translation>&amp;Проверить сообщение...</translation>
     </message>
     <message>
-        <source>Vertcoin</source>
-        <translation>Vertcoin</translation>
+        <source>$NameSentence</source>
+        <translation>$NameSentence</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -215,12 +215,12 @@
         <translation>Зашифровать приватные ключи, принадлежащие вашему бумажнику</translation>
     </message>
     <message>
-        <source>Sign messages with your Vertcoin addresses to prove you own them</source>
-        <translation>Подписать сообщения вашим адресом Vertcoin, чтобы доказать, что вы им владеете</translation>
+        <source>Sign messages with your $NameSentence addresses to prove you own them</source>
+        <translation>Подписать сообщения вашим адресом $NameSentence, чтобы доказать, что вы им владеете</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Vertcoin addresses</source>
-        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом Vertcoin</translation>
+        <source>Verify messages to ensure they were signed with specified $NameSentence addresses</source>
+        <translation>Проверить сообщения, чтобы удостовериться, что они были подписаны определённым адресом $NameSentence</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -239,8 +239,8 @@
         <translation>Панель вкладок</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and vertcoin: URIs)</source>
-        <translation>Запросить платежи (создаёт QR-коды и vertcoin: ссылки)</translation>
+        <source>Request payments (generates QR codes and $NameLowercase: URIs)</source>
+        <translation>Запросить платежи (создаёт QR-коды и $NameLowercase: ссылки)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -251,16 +251,16 @@
         <translation>Показать список использованных адресов и меток получения</translation>
     </message>
     <message>
-        <source>Open a vertcoin: URI or payment request</source>
-        <translation>Открыть vertcoin: URI или запрос платежа</translation>
+        <source>Open a $NameLowercase: URI or payment request</source>
+        <translation>Открыть $NameLowercase: URI или запрос платежа</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Параметры командной строки</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Vertcoin network</source>
-        <translation><numerusform>%n активных соединений с сетью Vertcoin</numerusform><numerusform>%n активных соединений с сетью Vertcoin</numerusform><numerusform>%n активных соединений с сетью Vertcoin</numerusform><numerusform>%n активных соединений с сетью Vertcoin</numerusform></translation>
+        <source>%n active connection(s) to $NameSentence network</source>
+        <translation><numerusform>%n активных соединений с сетью $NameSentence</numerusform><numerusform>%n активных соединений с сетью $NameSentence</numerusform><numerusform>%n активных соединений с сетью $NameSentence</numerusform><numerusform>%n активных соединений с сетью $NameSentence</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -576,7 +576,7 @@
         <translation>При первом запуске программы вы можете выбрать где %1 будет хранить свои данные.</translation>
     </message>
     <message>
-        <source>%1 will download and store a copy of the Vertcoin block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>%1 will download and store a copy of the $NameSentence block chain. At least %2GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>%1 скачает и сохранит копию цепи блоков. Как минимум %2GB будут записаны в этот каталог, и со временем он будет расти. Бумажник также будет сохранен в этом каталоге.</translation>
     </message>
     <message>
@@ -718,20 +718,20 @@
         <translation>&amp;Тратить неподтверждённую сдачу</translation>
     </message>
     <message>
-        <source>Automatically open the Vertcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматически открыть порт для Vertcoin-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
+        <source>Automatically open the $NameSentence client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматически открыть порт для $NameSentence-клиента на роутере. Работает только если Ваш роутер поддерживает UPnP, и данная функция включена.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Пробросить порт через &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Vertcoin network through a SOCKS5 proxy.</source>
-        <translation>Подключаться к сети Vertcoin через прокси SOCKS5</translation>
+        <source>Connect to the $NameSentence network through a SOCKS5 proxy.</source>
+        <translation>Подключаться к сети $NameSentence через прокси SOCKS5</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
-        <translation>&amp;Подключаться к сети Vertcoin через прокси SOCKS5 (прокси по умолчанию):</translation>
+        <translation>&amp;Подключаться к сети $NameSentence через прокси SOCKS5 (прокси по умолчанию):</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -766,8 +766,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Vertcoin network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Подключаться к сети Vertcoin через прокси SOCKS5 для скрытых сервисов Tor.</translation>
+        <source>Connect to the $NameSentence network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Подключаться к сети $NameSentence через прокси SOCKS5 для скрытых сервисов Tor.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -865,8 +865,8 @@
         <translation>Форма</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Vertcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью Vertcoin после подключения, но этот процесс пока не завершён.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the $NameSentence network after a connection is established, but this process has not completed yet.</source>
+        <translation>Отображаемая информация может быть устаревшей. Ваш бумажник автоматически синхронизируется с сетью $NameSentence после подключения, но этот процесс пока не завершён.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -955,8 +955,8 @@
         <translation>Сумма</translation>
     </message>
     <message>
-        <source>Enter a Vertcoin address (e.g. %1)</source>
-        <translation>Введите адрес Vertcoin (например, %1)</translation>
+        <source>Enter a $NameSentence address (e.g. %1)</source>
+        <translation>Введите адрес $NameSentence (например, %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1301,8 +1301,8 @@
         <translation>&amp;Повторно использовать существующий адрес получения (не рекомендуется)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Vertcoin network.</source>
-        <translation>Необязательное сообщение для запроса платежа, которое будет показано при открытии запроса. Заметьте: сообщение не будет отправлено вместе с платежом через сеть Vertcoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the $NameSentence network.</source>
+        <translation>Необязательное сообщение для запроса платежа, которое будет показано при открытии запроса. Заметьте: сообщение не будет отправлено вместе с платежом через сеть $NameSentence.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1455,7 +1455,7 @@
         <translation>Итого как минимум</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for vertcoin transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for $NameLowercase transactions than the network can process.</source>
         <translation>Уплата минимальной комиссии — не проблема, пока объём транзакций меньше, чем свободное место в блоках. Учтите, однако, что такая транзакция может никогда не подтвердиться, если спрос на транзакции превышает возможности сети по их обработке.</translation>
     </message>
     <message>
@@ -1542,8 +1542,8 @@
         <translation>Это нормальный платёж.</translation>
     </message>
     <message>
-        <source>The Vertcoin address to send the payment to</source>
-        <translation>Адрес Vertcoin, на который отправить платёж</translation>
+        <source>The $NameSentence address to send the payment to</source>
+        <translation>Адрес $NameSentence, на который отправить платёж</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1562,7 +1562,7 @@
         <translation>Удалить эту запись</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less vertcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less $NameLowercases than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>С отправляемой суммы будет удержана комиссия. Получателю придёт меньше биткоинов, чем вы вводите в поле количества. Если выбрано несколько получателей, комиссия распределяется поровну.</translation>
     </message>
     <message>
@@ -1586,8 +1586,8 @@
         <translation>Введите метку для этого адреса, чтобы добавить его в список использованных</translation>
     </message>
     <message>
-        <source>A message that was attached to the vertcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Vertcoin network.</source>
-        <translation>К vertcoin: URI было прикреплено сообщение, которое будет сохранено вместе с транзакцией для вашего сведения. Заметьте: сообщение не будет отправлено через сеть Vertcoin.</translation>
+        <source>A message that was attached to the $NameLowercase: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the $NameSentence network.</source>
+        <translation>К $NameLowercase: URI было прикреплено сообщение, которое будет сохранено вместе с транзакцией для вашего сведения. Заметьте: сообщение не будет отправлено через сеть $NameSentence.</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -1620,12 +1620,12 @@
         <translation>&amp;Подписать сообщение</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive vertcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive $NameLowercases sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>Вы можете подписывать сообщения/соглашения своими адресами, чтобы доказать свою возможность получать биткоины на них. Будьте осторожны, не подписывайте что-то неопределённое или случайное, так как фишинговые атаки могут обманным путём заставить вас подписать нежелательные сообщения. Подписывайте только те сообщения, с которыми вы согласны вплоть до мелочей.</translation>
     </message>
     <message>
-        <source>The Vertcoin address to sign the message with</source>
-        <translation>Адрес Vertcoin, которым подписать сообщение</translation>
+        <source>The $NameSentence address to sign the message with</source>
+        <translation>Адрес $NameSentence, которым подписать сообщение</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1656,8 +1656,8 @@
         <translation>Скопировать текущую подпись в системный буфер обмена</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Vertcoin address</source>
-        <translation>Подписать сообщение, чтобы доказать владение адресом Vertcoin</translation>
+        <source>Sign the message to prove you own this $NameSentence address</source>
+        <translation>Подписать сообщение, чтобы доказать владение адресом $NameSentence</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1680,12 +1680,12 @@
         <translation>Введите ниже адрес получателя, сообщение (убедитесь, что переводы строк, пробелы, табы и т.п. в точности скопированы) и подпись, чтобы проверить сообщение. Убедитесь, что не скопировали лишнего в подпись, по сравнению с самим подписываемым сообщением, чтобы не стать жертвой атаки "man-in-the-middle". Заметьте, что эта операция удостоверяет лишь авторство подписавшего, но не может удостоверить отправителя транзакции.</translation>
     </message>
     <message>
-        <source>The Vertcoin address the message was signed with</source>
-        <translation>Адрес Vertcoin, которым было подписано сообщение</translation>
+        <source>The $NameSentence address the message was signed with</source>
+        <translation>Адрес $NameSentence, которым было подписано сообщение</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Vertcoin address</source>
-        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом Vertcoin</translation>
+        <source>Verify the message to ensure it was signed with the specified $NameSentence address</source>
+        <translation>Проверить сообщение, чтобы убедиться, что оно было подписано указанным адресом $NameSentence</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1725,7 +1725,7 @@
     </message>
 </context>
 <context>
-    <name>vertcoin-core</name>
+    <name>$NameLowercase-core</name>
     <message>
         <source>Options:</source>
         <translation>Параметры:</translation>
@@ -1791,8 +1791,8 @@
         <translation>Принимать подключения извне (по умолчанию: 1, если не используется -proxy или -connect)</translation>
     </message>
     <message>
-        <source>Vertcoin Core</source>
-        <translation>Vertcoin Core</translation>
+        <source>$NameSentence Core</source>
+        <translation>$NameSentence Core</translation>
     </message>
     <message>
         <source>The %s developers</source>

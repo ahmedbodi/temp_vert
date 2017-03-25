@@ -53,7 +53,7 @@
     <name>BanTableModel</name>
     </context>
 <context>
-    <name>VertcoinGUI</name>
+    <name>$NameSentenceGUI</name>
     <message>
         <source>Synchronizing with network...</source>
         <translation>Duke u sinkronizuar me rrjetin...</translation>
@@ -91,8 +91,8 @@
         <translation>Ndrysho frazkalimin e përdorur per enkriptimin e portofolit</translation>
     </message>
     <message>
-        <source>Vertcoin</source>
-        <translation>Vertcoin</translation>
+        <source>$NameSentence</source>
+        <translation>$NameSentence</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -399,14 +399,14 @@
     <name>UnitDisplayStatusBarControl</name>
     </context>
 <context>
-    <name>vertcoin-core</name>
+    <name>$NameLowercase-core</name>
     <message>
         <source>Options:</source>
         <translation>Opsionet:</translation>
     </message>
     <message>
-        <source>Vertcoin Core</source>
-        <translation>Berthama Vertcoin</translation>
+        <source>$NameSentence Core</source>
+        <translation>Berthama $NameSentence</translation>
     </message>
     <message>
         <source>Information</source>

@@ -123,7 +123,7 @@ public:
         vSeeds.push_back(CDNSSeedData("fr1.vtconline.org", "fr1.vtconline.org", false));
         vSeeds.push_back(CDNSSeedData("uk1.vtconline.org","uk1.vtconline.org", false));
         vSeeds.push_back(CDNSSeedData("vtc.alwayshashing.com", "vtc.alwayshashing.com", false));
-        vSeeds.push_back(CDNSSeedData("explorer.vertcoin.info", "explorer.vertcoin.info", false));
+        vSeeds.push_back(CDNSSeedData("explorer.$NameLowercase.info", "explorer.$NameLowercase.info", false));
         vSeeds.push_back(CDNSSeedData("p2pool.kosmoplovci.org", "p2pool.kosmoplovci.org", false));
         vSeeds.push_back(CDNSSeedData("crypto.office-on-the.net", "crypto.office-on-the.net", false));
         vSeeds.push_back(CDNSSeedData("mail.hoosieryouth.org", "mail.hoosieryouth.org", false));

@@ -73,7 +73,7 @@
     </message>
 </context>
 <context>
-    <name>VertcoinGUI</name>
+    <name>$NameSentenceGUI</name>
     <message>
         <source>Sign &amp;message...</source>
         <translation>Signer &amp;message...</translation>
@@ -163,8 +163,8 @@
         <translation>Réindexer les blocs sur le disque...</translation>
     </message>
     <message>
-        <source>Send coins to a Vertcoin address</source>
-        <translation>Envoyer des pièces à une adresse Vertcoin</translation>
+        <source>Send coins to a $NameSentence address</source>
+        <translation>Envoyer des pièces à une adresse $NameSentence</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -187,8 +187,8 @@
         <translation>&amp;Vérification du message</translation>
     </message>
     <message>
-        <source>Vertcoin</source>
-        <translation>Vertcoin</translation>
+        <source>$NameSentence</source>
+        <translation>$NameSentence</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -215,8 +215,8 @@
         <translation>Crypter les clé privées qui appartiennent votre portefeuille</translation>
     </message>
     <message>
-        <source>Sign messages with your Vertcoin addresses to prove you own them</source>
-        <translation>Signer vos messages avec vos adresses Vertcoin pour prouver que vous les détenez</translation>
+        <source>Sign messages with your $NameSentence addresses to prove you own them</source>
+        <translation>Signer vos messages avec vos adresses $NameSentence pour prouver que vous les détenez</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -235,24 +235,24 @@
         <translation>Barre d'outils des onglets</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and vertcoin: URIs)</source>
-        <translation>Demander des paiements (générer QR codes et vertcoin: URIs)</translation>
+        <source>Request payments (generates QR codes and $NameLowercase: URIs)</source>
+        <translation>Demander des paiements (générer QR codes et $NameLowercase: URIs)</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
         <translation>Montrer la liste des adresses d'envois utilisées et les étiquettes</translation>
     </message>
     <message>
-        <source>Open a vertcoin: URI or payment request</source>
-        <translation>Ouvrir un vertcoin: URI ou demande de paiement</translation>
+        <source>Open a $NameLowercase: URI or payment request</source>
+        <translation>Ouvrir un $NameLowercase: URI ou demande de paiement</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Options de ligne de commande</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Vertcoin network</source>
-        <translation><numerusform>%n connexion active au réseau Vertcoin</numerusform><numerusform>%n connexions actives au réseau Vertcoin</numerusform></translation>
+        <source>%n active connection(s) to $NameSentence network</source>
+        <translation><numerusform>%n connexion active au réseau $NameSentence</numerusform><numerusform>%n connexions actives au réseau $NameSentence</numerusform></translation>
     </message>
     <message>
         <source>Indexing blocks on disk...</source>
@@ -614,8 +614,8 @@
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically open the Vertcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir le port du client Vertcoin automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
+        <source>Automatically open the $NameSentence client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir le port du client $NameSentence automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l'UPnP et si la fonctionnalité est activée.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -775,8 +775,8 @@
         <translation>Montant</translation>
     </message>
     <message>
-        <source>Enter a Vertcoin address (e.g. %1)</source>
-        <translation>Entrer une adresse Vertcoin (e.g. %1)</translation>
+        <source>Enter a $NameSentence address (e.g. %1)</source>
+        <translation>Entrer une adresse $NameSentence (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1321,7 +1321,7 @@
     <name>UnitDisplayStatusBarControl</name>
     </context>
 <context>
-    <name>vertcoin-core</name>
+    <name>$NameLowercase-core</name>
     <message>
         <source>Options:</source>
         <translation>Options :</translation>
@@ -1347,8 +1347,8 @@
         <translation>Impossible de démarrer le serveur HTTP. Voir le journal de débogage pour plus de détails.</translation>
     </message>
     <message>
-        <source>Vertcoin Core</source>
-        <translation>Vertcoin Core</translation>
+        <source>$NameSentence Core</source>
+        <translation>$NameSentence Core</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>
